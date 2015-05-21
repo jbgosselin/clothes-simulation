@@ -1,0 +1,10 @@
+{
+  "esnext": true,
+  "asi": true,
+  "strict": true,
+  "globalstrict": true,
+  "browser": true,
+  "globals": {
+    "THREE": false
+  }
+}
